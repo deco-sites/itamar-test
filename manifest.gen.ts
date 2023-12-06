@@ -2,15 +2,15 @@
 // This file SHOULD be checked into source version control.
 // This file is automatically updated during development when running `dev.ts`.
 
-import * as $$$$$$0 from "./sections/Links.tsx";
-import * as $$$$$$1 from "./sections/Theme.tsx";
+import * as $$$$$$0 from "./sections/Theme.tsx";
+import * as $$$$$$1 from "./sections/Links.tsx";
 import * as $$$$$$$$$$$0 from "./apps/decohub.ts";
 import * as $$$$$$$$$$$1 from "./apps/site.ts";
 
 const manifest = {
   "sections": {
-    "deco-sites/itamar-test/sections/Links.tsx": $$$$$$0,
-    "deco-sites/itamar-test/sections/Theme.tsx": $$$$$$1,
+    "deco-sites/itamar-test/sections/Links.tsx": $$$$$$1,
+    "deco-sites/itamar-test/sections/Theme.tsx": $$$$$$0,
   },
   "apps": {
     "deco-sites/itamar-test/apps/decohub.ts": $$$$$$$$$$$0,
